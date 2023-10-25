@@ -25,7 +25,7 @@ Copy code
 cd airbnb-command-interpreter
 Run the command interpreter:
 
-bash
+
 Copy code
 python3 console.py
 How to Use the Command Interpreter
